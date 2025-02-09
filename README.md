@@ -6,7 +6,7 @@ Bu proje, artırılmış gerçeklik (AR) teknolojisini kullanarak kullanıcılar
 ---
 
 ## *📹 Tanıtım ve Oynanış Videosu*
-### [Tanıtım Videosu](#)
+### [Tanıtım Videosu](https://youtu.be/yPjz8Jiu1ZE)
 
 ---
 
@@ -16,13 +16,15 @@ Bu proje, artırılmış gerçeklik (AR) teknolojisini kullanarak kullanıcılar
 ---
 
 
+---
+
 ## *🔗 GitHub Linki*
 ### [GitHub](https://github.com/AhmetBugrahanAltunok/Ar.proje)
 
 ---
 
 ### *Teknoloji Hazırlık Seviyesi (THS)*
-<img src="#" alt="Teknoloji Hazırlık Seviyesi (THS)" width="50%">  
+<img src="Fotograflar/ths.png" alt="Teknoloji Hazırlık Seviyesi (THS)" width="50%">  
 
 ### [Teknoloji Hazırlık Seviyesi xlsx Dosyası](#)
 
@@ -30,8 +32,8 @@ Bu proje, artırılmış gerçeklik (AR) teknolojisini kullanarak kullanıcılar
 
 ## *📌 NASIL KULLANILIR?*  
 
-<img src="/mnt/data/IMG-20250209-WA0086.jpg" alt="Nasıl Kullanılır?" width="50%">
-<img src="/mnt/data/IMG-20250209-WA0087.jpg" alt="Nasıl Kullanılır?" width="50%">  
+<img src="Fotograflar/IMG-20250209-WA0086.jpg" alt="Nasıl Kullanılır?" width="50%">
+<img src="Fotograflar/IMG-20250209-WA0087.jpg" alt="Nasıl Kullanılır?" width="50%">  
 
 1. Uygulama başladığında ekrana Drake Denklemi'nin parametreleri gelir.
 2. Her bir parametre için gerekli değerleri girersiniz.
@@ -40,8 +42,13 @@ Bu proje, artırılmış gerçeklik (AR) teknolojisini kullanarak kullanıcılar
 
 ---
 
-## *🎥 OYNANIŞ VİDEOSU*  
-[*Oynanış videosunu buradan izleyin*](#)  
+## *🎥 OYNANIŞ GÖRSELLERİ*  
+
+<img src="Fotograflar/IMG-20250209-WA0088.jpg" alt="Oynanış 1" width="50%">
+<img src="Fotograflar/IMG-20250209-WA0089.jpg" alt="Oynanış 2" width="50%">
+<img src="Fotograflar/IMG-20250209-WA0096.jpg" alt="Oynanış 3" width="50%">
+<img src="Fotograflar/IMG-20250209-WA0097.jpg" alt="Oynanış 4" width="50%">
+<img src="Fotograflar/IMG-20250209-WA0098.jpg" alt="Oynanış 5" width="50%">
 
 ---
 
@@ -56,8 +63,7 @@ Yaşanabilir gezegenlerı 3D olarak inceleyin ve etkileşimde bulunun.
 🔢 *Gerçek Zamanlı Hesaplama:*  
 Girilen verilerle anında hesaplama yaparak sonucu görün.  
 
-🏆 *Skor ve Karşılaştırma:*  
-Sonuçlarınızı kaydedin ve başkalarıyla karşılaştırın.  
+
 
 ---
 
