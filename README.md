@@ -15,6 +15,8 @@ Bu proje, artırılmış gerçeklik (AR) teknolojisini kullanarak kullanıcılar
 
 ---
 
+## *🔗 Trello Linki*
+### [Trello](https://trello.com/b/NDWbAc9g/ar-projesi)
 
 ---
 
@@ -63,7 +65,8 @@ Yaşanabilir gezegenlerı 3D olarak inceleyin ve etkileşimde bulunun.
 🔢 *Gerçek Zamanlı Hesaplama:*  
 Girilen verilerle anında hesaplama yaparak sonucu görün.  
 
-
+🏆 *Skor ve Karşılaştırma:*  
+Sonuçlarınızı kaydedin ve başkalarıyla karşılaştırın.  
 
 ---
 
@@ -120,4 +123,3 @@ Eğer mobil cihazda test etmek istiyorsanız:
 
 Projeyi doğrudan indirip test etmek için APK dosyasını kullanabilirsiniz:
 ### [AR-Drake APK](https://drive.google.com/file/d/1AH5qIzr_JEMiR6k7lel6q5_8qxNHlGcP/view?usp=sharing)
-
